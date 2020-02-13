@@ -1,5 +1,5 @@
 /*=============================================================================
- * Title        : Tri-state buffer testbench
+ * Title        : Fizz Buzz generator testbench
  *
  * File Name    : TB_FIZZ_BUZZ.sv
  * Project      : Sample
